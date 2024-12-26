@@ -18,6 +18,7 @@ Compile the program: javac Main.java NullPointerDemo.java
 Run the program: java Main
 Example Output
 When the program is executed, the following output will appear:
+
 Occurred exception NullPointerException: java.lang.NullPointerException
 java.lang.NullPointerException
     at NullPointerDemo.generateNullPointerException(NullPointerDemo.java:5)
